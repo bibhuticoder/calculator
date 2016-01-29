@@ -1,3 +1,3 @@
 # calculator
 
-see t he demo here : http://bibhuticoder.github.io/calculator
+see the demo here : http://bibhuticoder.github.io/calculator
